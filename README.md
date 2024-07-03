@@ -8,6 +8,13 @@
 - Transformação dos dados.
 - Ultilização do Power Query para conversão e remoção de linhas indesejadas e duplicadas, filtração de dados, manipulação de valores nulos.
 - Criação da visualização.
+
+#
+
+#### Painel de Visualização
+
+<img width='950' height='500' src="https://github.com/eduardolima17/Sinopse-Estatistica-Educacao-Basica-2023-pbix/blob/main/Painel-Visualizacao.png" />
+
 #
 #### Estrutura da base de dados
 
