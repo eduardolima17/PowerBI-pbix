@@ -1,4 +1,4 @@
-### Dashboard Sinopse Estatistica da Educação Básica ano 2023 com Power BI <img width='25' height='25' src="https://img.icons8.com/?size=100&id=Ny0t2MYrJ70p&format=png&color=000000" />
+### Dashboards Power BI <img width='25' height='25' src="https://img.icons8.com/?size=100&id=Ny0t2MYrJ70p&format=png&color=000000" />
 
 #
 #### Esse foi o projeto onde eu aprendi fazer:
