@@ -11,9 +11,9 @@
 
 #
 
-#### Painel de Visualização
+#### Painel de Visualização Educação Básica
 
-<img width='950' height='500' src="https://github.com/eduardolima17/Sinopse-Estatistica-Educacao-Basica-2023-pbix/blob/main/Painel-Visualizacao.png" />
+<img width='950' height='500' src="https://github.com/eduardolima17/PowerBI-pbix/blob/main/visualizacao-EducacaoBasica.png" />
 
 #
 #### Estrutura da base de dados
