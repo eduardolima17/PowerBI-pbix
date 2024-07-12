@@ -32,6 +32,7 @@ Arquivo em excel que contém as seguintes colunas:
 Nenhuma nova coluna foi criada a partir dos dados.
 #
 #### Quantidade de dados: 5.570
+Arquivo: https://github.com/eduardolima17/PowerBI-pbix/blob/main/arquivo-EducacaoBasica.pbix
 #
 
 #### Painel de Visualização Analítico de Vendas Globais
@@ -64,6 +65,7 @@ Arquivo em dataset csv que contém as seguintes colunas:
 - Lucro e Prioridade
 
 #### Quantidade de dados: 51.290
+Arquivo: https://github.com/eduardolima17/PowerBI-pbix/blob/main/arquivo-AnaliticoVendasGlobais.pbix
 
 #
 
@@ -118,4 +120,5 @@ Arquivos em dataset csv que contém as seguintes colunas:
 - Valor venda
 
 #### Quantidade de dados: 88.207
+Arquivo: https://github.com/eduardolima17/PowerBI-pbix/blob/main/arquivo-VendasLucrosMargemdeLucroseKPI.pbix
 
