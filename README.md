@@ -64,3 +64,58 @@ Arquivo em dataset csv que contém as seguintes colunas:
 - Lucro e Prioridade
 
 #### Quantidade de dados: 51.290
+
+#
+
+#### Painel de Visualização Vendas, Lucros, Margemde de Lucros e KPI
+
+<img width='950' height='500' src="https://github.com/eduardolima17/PowerBI-pbix/blob/main/visualizacao-VendasLucrosMargemdeLucroseKPI.png" />
+
+Nesse Dashboard foi trabalhado com dados que contém vendas, lucros, margem de lucros e kpi.
+
+Perguntas respondidas:
+
+- Qual foi o total de valor venda considerando cada modo de envio dos pedidos? Use um gráfico de cascata.
+- Quais mercados tiveram o maior custo médio de envio dos produtos vendidos? Use um gráfico treemap.
+- A empresa tem como objetivo (meta) manter uma média de 350 para o valor de venda todos os meses. Mostre um indicador (KPI–Key Performance Indicator) com o valor médio de venda. A empresa ficou abaixo ou acima da meta no mês de Abril/2014?
+- Considere que o lucro é equivalente a:valor venda -custo envio. Qual categoria de produto apresentou maior lucro médio.
+- Qual foi o comportamento da margem de lucro ao longo do tempo? Considere amargem de lucro como o lucro dividido pelo valor venda.
+
+#### Estrutura da base de dados
+
+Arquivos em dataset csv que contém as seguintes colunas:
+
+#### csv clientes
+- Cidade    
+- Estado
+- Id cliente
+- Mercado
+- Nome cliente
+- País
+- Região
+- Segmento
+
+#### csv pedidos
+- Data envio
+- Data pedido
+- Id pedido
+- Modo pedido
+- Prioridade pedido
+
+#### csv produtos
+- Acessórios
+- Id produto
+- Tecnologia
+
+#### csv vendas
+- Cliente
+- Custo envio
+- Lucro
+- Margem de lucro
+- Pedido
+- Produto
+- Quantidade vendida
+- Valor venda
+
+#### Quantidade de dados: 88.207
+
