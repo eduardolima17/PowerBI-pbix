@@ -165,5 +165,5 @@ Arquivos em dataset csv que contém as seguintes colunas:
 
 Para cada visão foram compreendidas as variáveis, criação de gráficos, medidas, extração de métricas e cruzado os dados, visando entregar aos tomadores de decisão uma visão bastante completa sobre o perfil dos clientes, os padrões de compra e a efetividade das campanhas de Marketing.
 
-#### Quantidade de dados: 51.290
+#### Quantidade de dados: 1.999
 Arquivo: https://github.com/eduardolima17/PowerBI-pbix/blob/main/arquivo-Marketing.pbix
