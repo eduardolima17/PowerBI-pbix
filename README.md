@@ -122,3 +122,24 @@ Arquivos em dataset csv que contém as seguintes colunas:
 #### Quantidade de dados: 88.207
 Arquivo: https://github.com/eduardolima17/PowerBI-pbix/blob/main/arquivo-VendasLucrosMargemdeLucroseKPI.pbix
 
+#
+
+#### Painel de Visualização de Análise de Campanhas de Marketing
+
+<img width='950' height='500' src="https://github.com/eduardolima17/PowerBI-pbix/blob/main/visualizacao-Marketing.png" />
+
+Nesse Dashboard foi trabalhado a análise  de  campanhas  de Marketing com o Power BI.
+
+Foram 4 Dashboards, mais de 10 elementos visuais, customizações, formatações, correções nos dados e diferentes recursos do Power BI. Os dados representam informações sobre clientes e campanhas de Marketing realizadas por uma empresa.
+
+Foram criados diversos relatórios que foram divididos em 4 visões:
+- Visão do Cliente
+- Visão do Comportamento de Compra do Cliente
+- Visão da Performance das Campanhas de Marketing
+- Visão dos Padrões de Compra no Ponto de Venda (País)
+
+Para cada visão foram compreendidas as variáveis, criação de gráficos, medidas, extração de métricas e cruzado os dados, visando entregar aos tomadores de decisão uma visão bastante completa sobre o perfil dos clientes, os padrões de compra e a efetividade das campanhas de Marketing.
+
+#### Estrutura da base de dados
+
+Arquivos em dataset csv que contém as seguintes colunas:
