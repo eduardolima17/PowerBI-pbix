@@ -143,3 +143,27 @@ Para cada visão foram compreendidas as variáveis, criação de gráficos, medi
 #### Estrutura da base de dados
 
 Arquivos em dataset csv que contém as seguintes colunas:
+- Adolescentes em casa
+- Ano nascimento
+- Compra na campanha 1, 2, 3, 4 e campanha 5
+- Comprou
+- Data cadastro
+- Dias desde ultima compra
+- Escolaridade
+- Estado civil
+- Filhos em casa
+- Gasto com Alimentos, Briquedos, Eletronicos, Movéis, Utilidades e Vestuario
+- ID
+- Número de compras com desconto
+- Número de compras na loja
+- Número de compras na web
+- Números de compras via catalogo
+- Números de visitas web site mês
+- País
+- Salário anual
+- Medida total gasto
+
+Para cada visão foram compreendidas as variáveis, criação de gráficos, medidas, extração de métricas e cruzado os dados, visando entregar aos tomadores de decisão uma visão bastante completa sobre o perfil dos clientes, os padrões de compra e a efetividade das campanhas de Marketing.
+
+#### Quantidade de dados: 51.290
+Arquivo: https://github.com/eduardolima17/PowerBI-pbix/blob/main/arquivo-Marketing.pbix
