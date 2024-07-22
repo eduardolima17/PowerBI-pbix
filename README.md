@@ -128,9 +128,7 @@ Arquivo: https://github.com/eduardolima17/PowerBI-pbix/blob/main/arquivo-VendasL
 
 <img width='950' height='500' src="https://github.com/eduardolima17/PowerBI-pbix/blob/main/visualizacao-Marketing.png" />
 
-Nesse Dashboard foi trabalhado a análise  de  campanhas  de Marketing com o Power BI.
-
-Foram 4 Dashboards, mais de 10 elementos visuais, customizações, formatações, correções nos dados e diferentes recursos do Power BI. Os dados representam informações sobre clientes e campanhas de Marketing realizadas por uma empresa.
+Nesse Dashboard foi trabalhado a análise  de  campanhas  de Marketing. Foram 4 Dashboards, mais de 10 elementos visuais, customizações, formatações, correções nos dados e diferentes recursos do Power BI. Os dados representam informações sobre clientes e campanhas de Marketing realizadas por uma empresa.
 
 Foram criados diversos relatórios que foram divididos em 4 visões:
 - Visão do Cliente
@@ -167,3 +165,31 @@ Para cada visão foram compreendidas as variáveis, criação de gráficos, medi
 
 #### Quantidade de dados: 1.999
 Arquivo: https://github.com/eduardolima17/PowerBI-pbix/blob/main/arquivo-Marketing.pbix
+
+#
+
+#### Painel de Visualização Comercial - Perfomance de Vendas
+
+<img width='950' height='500' src="https://github.com/eduardolima17/PowerBI-pbix/blob/main/visualizacao-Comercial.png" />
+
+Nesse Dashboard foi trabalhado a análise comercial. Foram construidos diversas visualizações para compreender a performance de vendas de uma empresa fictícia por diferentes ângulos. Foi utilizado dados fictícios para este Dashboard. Foi utlizados interessantes recursos do Power BI como a Narrativa Inteligente, Principais Influenciadores, Gráfico de Faixas e criação de menu para índice do Dashboard.
+
+#### Estrutura da base de dados
+Arquivos em dataset excel que contém as seguintes colunas:
+- Categoria
+- Cidade
+- Comissão (porcentual)
+- Custo
+- Data
+- Estado
+- Fabricantes
+- ID Produto
+- ID Vendedor
+- Loja
+- Produto
+- Segmento
+- Valor venda
+- Vedendor
+
+#### Quantidade de dados: 457
+Arquivo: https://github.com/eduardolima17/PowerBI-pbix/blob/main/arquivo-Comercial.pbix
