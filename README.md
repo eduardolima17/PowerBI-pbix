@@ -175,7 +175,7 @@ Arquivo: https://github.com/eduardolima17/PowerBI-pbix/blob/main/arquivo-Marketi
 Nesse Dashboard foi trabalhado a análise comercial. Foram construidos diversas visualizações para compreender a performance de vendas de uma empresa fictícia por diferentes ângulos. Foi utilizado dados fictícios para este Dashboard. Foi utlizados interessantes recursos do Power BI como a Narrativa Inteligente, Principais Influenciadores, Gráfico de Faixas e criação de menu para índice do Dashboard.
 
 #### Estrutura da base de dados
-Arquivos em dataset excel que contém as seguintes colunas:
+Arquivos em excel que contém as seguintes colunas:
 - Categoria
 - Cidade
 - Comissão (porcentual)
