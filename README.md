@@ -7,6 +7,8 @@
 
 <img width='950' height='500' src="https://github.com/eduardolima17/PowerBI-pbix/blob/main/visualizacao-painel-relatorio-investimento-fiis.png"/>
 
+Arquivo pbix: https://github.com/eduardolima17/PowerBI-pbix/blob/main/arquivo_relatorio_investimento_fiis.pbix
+
 #
 
 #### Painel de Visualização Analítico de Vendas Globais
