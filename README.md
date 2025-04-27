@@ -1,4 +1,4 @@
-### Dashboards Power BI <img width='25' height='25' src="https://img.icons8.com/?size=100&id=Ny0t2MYrJ70p&format=png&color=000000" />
+### Painels em Power BI <img width='25' height='25' src="https://img.icons8.com/?size=100&id=Ny0t2MYrJ70p&format=png&color=000000" />
 
 #
 
