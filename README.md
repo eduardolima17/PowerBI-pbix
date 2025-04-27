@@ -1,38 +1,12 @@
 ### Dashboards Power BI <img width='25' height='25' src="https://img.icons8.com/?size=100&id=Ny0t2MYrJ70p&format=png&color=000000" />
 
 #
-#### Esse foi o projeto onde eu aprendi fazer:
-- Importação do arquivo da base de dados da educação básica para o Power BI.
-- Preparação dos dados.
-- Leitura dos dados.
-- Transformação dos dados.
-- Ultilização do Power Query para conversão e remoção de linhas indesejadas e duplicadas, filtração de dados, manipulação de valores nulos.
-- Criação da visualização.
 
-#
+#### Painel de Visualização de Análise de Investimento
+<img width='950' height='500' src="https://github.com/eduardolima17/PowerBI-pbix/blob/main/visualizacao-capa-relatorio-investimento-fiis.png"/>
 
-#### Painel de Visualização Educação Básica
+<img width='950' height='500' src="https://github.com/eduardolima17/PowerBI-pbix/blob/main/visualizacao-painel-relatorio-investimento-fiis.png"/>
 
-<img width='950' height='500' src="https://github.com/eduardolima17/PowerBI-pbix/blob/main/visualizacao-EducacaoBasica.png" />
-
-#
-#### Estrutura da base de dados
-
-Arquivo em excel que contém as seguintes colunas:
-- Região Geográfica
-- Estado
-- Município
-- Código do Município
-- Total de Matrículas
-- Educação Infantil
-- Ensino Fundamental
-- Ensino Médio
-- Educação Profissional
-
-Nenhuma nova coluna foi criada a partir dos dados.
-#
-#### Quantidade de dados: 5.570
-Arquivo: https://github.com/eduardolima17/PowerBI-pbix/blob/main/arquivo-EducacaoBasica.pbix
 #
 
 #### Painel de Visualização Analítico de Vendas Globais
