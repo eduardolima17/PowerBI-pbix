@@ -15,32 +15,56 @@ Arquivo pbix: https://github.com/eduardolima17/PowerBI-pbix/blob/main/arquivo_re
 
 <img width='950' height='500' src="https://github.com/eduardolima17/PowerBI-pbix/blob/main/visualizacao-VendaGlobais.png" />
 
-Nesse Dashboard foi trabalhado com dados de vendas de uma empresa fictícia que comercializa produtos em todos os cantos do mundo.
+📊 Dashboard de Vendas - Análise Global
+Este projeto consiste na criação de um Dashboard interativo utilizando dados de vendas de uma empresa fictícia que comercializa produtos mundialmente. O objetivo foi analisar padrões de vendas e gerar insights estratégicos a partir dos dados.
 
-Perguntas respondidas:
-- Qual o valor total vendido?
-- Quantas vendas foram realizadas por categoria de produto?
-- Quantas vendas foram realizadas por país considerando a prioridade de entrega?
-- Qual foi a média de desconto nas vendas por subcategoria de produto?
-- Quais países tiveram maior média de valor de venda? Demonstre em um mapa.
+🔎 Principais Análises Realizadas
+Valor Total Vendido: Cálculo do montante total das vendas realizadas.
 
-#### Estrutura da base de dados
+Vendas por Categoria de Produto: Quantificação das vendas em cada categoria.
 
-Arquivo em dataset csv que contém as seguintes colunas:
-- Id Pedido
-- Data Pedido
-- Id Cliente
-- Segmento
-- País
-- Id Produto
-- Categoria
-- Subcategoria
-- Total Vendas
-- Quantidade
-- Desconto
-- Lucro e Prioridade
+Vendas por País considerando a Prioridade de Entrega: Análise cruzada entre localizações e níveis de prioridade.
 
-#### Quantidade de dados: 51.290
+Média de Desconto por Subcategoria de Produto: Avaliação dos descontos aplicados em diferentes tipos de produtos.
+
+Países com Maior Média de Valor de Venda: Representação geográfica (mapa) destacando os países com maior ticket médio.
+
+🗂 Estrutura do Dataset
+O conjunto de dados utilizado está no formato .csv e inclui as seguintes colunas:
+
+Id Pedido: Identificador único do pedido.
+
+Data Pedido: Data em que o pedido foi realizado.
+
+Id Cliente: Identificador do cliente.
+
+Segmento: Segmento de mercado do cliente.
+
+País: Localização do cliente.
+
+Id Produto: Identificador do produto.
+
+Categoria: Categoria do produto.
+
+Subcategoria: Subcategoria do produto.
+
+Total Vendas: Valor total da venda.
+
+Quantidade: Quantidade de produtos vendidos.
+
+Desconto: Percentual de desconto aplicado.
+
+Lucro: Lucro obtido na venda.
+
+Prioridade: Prioridade de entrega do pedido.
+
+🚀 Tecnologias Utilizadas
+
+Power BI / Tableau (caso tenha utilizado ferramentas de BI)
+
+📈 Resultado
+O dashboard permite uma visualização clara e eficiente dos principais indicadores de vendas, auxiliando na tomada de decisões estratégicas com base em dados reais.
+
 Arquivo: https://github.com/eduardolima17/PowerBI-pbix/blob/main/arquivo-AnaliticoVendasGlobais.pbix
 
 #
