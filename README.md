@@ -11,15 +11,13 @@ Arquivo pbix: https://github.com/eduardolima17/PowerBI-pbix/blob/main/arquivo_re
 
 #
 
-#### Painel de Visualização Analítico de Vendas Globais
+#### 📊 Relatório de Vendas - Análise Global
 
 <img width='950' height='500' src="https://github.com/eduardolima17/PowerBI-pbix/blob/main/visualizacao-VendaGlobais.png" />
 
-📊 Relatório de Vendas - Análise Global
-
 Este projeto consiste na criação de um relatório interativo utilizando dados de vendas de uma empresa fictícia que comercializa produtos mundialmente. O objetivo foi analisar padrões de vendas e gerar insights estratégicos a partir dos dados.
 
-🔎 Principais Análises Realizadas
+#### 🔎 Principais Análises Realizadas
 
 Valor Total Vendido: Cálculo do montante total das vendas realizadas.
 
@@ -31,7 +29,7 @@ Média de Desconto por Subcategoria de Produto: Avaliação dos descontos aplica
 
 Países com Maior Média de Valor de Venda: Representação geográfica (mapa) destacando os países com maior ticket médio.
 
-🗂 Estrutura do Dataset
+#### 🗂 Estrutura do Dataset
 O conjunto de dados utilizado está no formato .csv e inclui as seguintes colunas:
 
 Id Pedido: Identificador único do pedido.
@@ -60,11 +58,11 @@ Lucro: Lucro obtido na venda.
 
 Prioridade: Prioridade de entrega do pedido.
 
-🚀 Tecnologias Utilizadas
+#### 🚀 Tecnologias Utilizadas
 
 Power BI
 
-📈 Resultado
+#### 📈 Resultado
 
 O relatório permite uma visualização clara e eficiente dos principais indicadores de vendas, auxiliando na tomada de decisões estratégicas com base em dados reais.
 
@@ -76,53 +74,62 @@ Arquivo pbix: https://github.com/eduardolima17/PowerBI-pbix/blob/main/arquivo-An
 
 <img width='950' height='500' src="https://github.com/eduardolima17/PowerBI-pbix/blob/main/visualizacao-VendasLucrosMargemdeLucroseKPI.png" />
 
-Nesse Dashboard foi trabalhado com dados que contém vendas, lucros, margem de lucros e kpi.
+Neste projeto, desenvolvi um Dashboard interativo utilizando Power BI para analisar dados de vendas, lucro, margem de lucro e KPIs estratégicos.
 
-Perguntas respondidas:
+#### 🔎 Perguntas de Negócio Respondidas
 
-- Qual foi o total de valor venda considerando cada modo de envio dos pedidos? Use um gráfico de cascata.
-- Quais mercados tiveram o maior custo médio de envio dos produtos vendidos? Use um gráfico treemap.
-- A empresa tem como objetivo (meta) manter uma média de 350 para o valor de venda todos os meses. Mostre um indicador (KPI–Key Performance Indicator) com o valor médio de venda. A empresa ficou abaixo ou acima da meta no mês de Abril/2014?
-- Considere que o lucro é equivalente a:valor venda -custo envio. Qual categoria de produto apresentou maior lucro médio.
-- Qual foi o comportamento da margem de lucro ao longo do tempo? Considere amargem de lucro como o lucro dividido pelo valor venda.
+#### Valor de Vendas por Modo de Envio
+→ Análise do valor total de vendas considerando cada modo de envio dos pedidos, apresentada por meio de um gráfico de cascata.
 
-#### Estrutura da base de dados
+#### Mercados com Maior Custo Médio de Envio
+→ Identificação dos mercados que tiveram o maior custo médio de envio dos produtos vendidos, visualizado através de um gráfico treemap.
 
-Arquivos em dataset csv que contém as seguintes colunas:
+#### Acompanhamento de Meta de Vendas
+→ A empresa tem como meta manter uma média de R$350 no valor de vendas mensal.
+→ Criação de um indicador KPI exibindo a média mensal de vendas e análise se a meta foi atingida ou não no mês de Abril de 2014.
 
-#### csv clientes
-- Cidade    
-- Estado
-- Id cliente
-- Mercado
-- Nome cliente
-- País
-- Região
-- Segmento
+#### Categoria com Maior Lucro Médio
+→ Cálculo do lucro (valor de venda - custo de envio) para identificar qual categoria de produto apresentou o maior lucro médio.
 
-#### csv pedidos
-- Data envio
-- Data pedido
-- Id pedido
-- Modo pedido
-- Prioridade pedido
+#### Evolução da Margem de Lucro ao Longo do Tempo
+→ Estudo da variação da margem de lucro, definida como (lucro ÷ valor de venda), exibido em um gráfico de linha temporal.
 
-#### csv produtos
-- Acessórios
-- Id produto
-- Tecnologia
+#### 🗂️ Estrutura da Base de Dados
 
-#### csv vendas
-- Cliente
-- Custo envio
-- Lucro
-- Margem de lucro
-- Pedido
-- Produto
-- Quantidade vendida
-- Valor venda
+Os dados foram organizados em arquivos CSV conforme descrito abaixo:
 
-#### Quantidade de dados: 88.207
+#### Clientes
+Cidade
+Estado
+Id Cliente
+Mercado
+Nome Cliente
+País
+Região
+Segmento
+
+#### Pedidos
+Data de Envio
+Data do Pedido
+Id Pedido
+Modo de Envio
+Prioridade do Pedido
+
+#### Produtos
+Acessórios
+Id Produto
+Tecnologia
+
+#### Vendas
+Cliente
+Custo de Envio
+Lucro
+Margem de Lucro
+Pedido
+Produto
+Quantidade Vendido
+Valor de Venda
+
 Arquivo: https://github.com/eduardolima17/PowerBI-pbix/blob/main/arquivo-VendasLucrosMargemdeLucroseKPI.pbix
 
 #
