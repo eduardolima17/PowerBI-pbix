@@ -15,9 +15,9 @@ Arquivo pbix: https://github.com/eduardolima17/PowerBI-pbix/blob/main/arquivo_re
 
 <img width='950' height='500' src="https://github.com/eduardolima17/PowerBI-pbix/blob/main/visualizacao-VendaGlobais.png" />
 
-📊 Dashboard de Vendas - Análise Global
+📊 Relatório de Vendas - Análise Global
 
-Este projeto consiste na criação de um Dashboard interativo utilizando dados de vendas de uma empresa fictícia que comercializa produtos mundialmente. O objetivo foi analisar padrões de vendas e gerar insights estratégicos a partir dos dados.
+Este projeto consiste na criação de um relatório interativo utilizando dados de vendas de uma empresa fictícia que comercializa produtos mundialmente. O objetivo foi analisar padrões de vendas e gerar insights estratégicos a partir dos dados.
 
 🔎 Principais Análises Realizadas
 
@@ -62,11 +62,11 @@ Prioridade: Prioridade de entrega do pedido.
 
 🚀 Tecnologias Utilizadas
 
-Power BI / Tableau (caso tenha utilizado ferramentas de BI)
+Power BI
 
 📈 Resultado
 
-O dashboard permite uma visualização clara e eficiente dos principais indicadores de vendas, auxiliando na tomada de decisões estratégicas com base em dados reais.
+O relatório permite uma visualização clara e eficiente dos principais indicadores de vendas, auxiliando na tomada de decisões estratégicas com base em dados reais.
 
 Arquivo pbix: https://github.com/eduardolima17/PowerBI-pbix/blob/main/arquivo-AnaliticoVendasGlobais.pbix
 
