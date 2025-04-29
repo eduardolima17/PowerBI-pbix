@@ -70,11 +70,11 @@ Arquivo pbix: https://github.com/eduardolima17/PowerBI-pbix/blob/main/arquivo-An
 
 #
 
-#### Painel de Visualização Vendas, Lucros, Margemde de Lucros e KPI
+#### 📊 Projeto Relatório de Vendas – Análise de Dados no Power BI
 
 <img width='950' height='500' src="https://github.com/eduardolima17/PowerBI-pbix/blob/main/visualizacao-VendasLucrosMargemdeLucroseKPI.png" />
 
-Neste projeto, desenvolvi um Dashboard interativo utilizando Power BI para analisar dados de vendas, lucro, margem de lucro e KPIs estratégicos.
+Neste projeto, desenvolvi um relatório interativo utilizando Power BI para analisar dados de vendas, lucro, margem de lucro e KPIs estratégicos.
 
 #### 🔎 Perguntas de Negócio Respondidas
 
@@ -130,7 +130,7 @@ Produto
 Quantidade Vendido
 Valor de Venda
 
-Arquivo: https://github.com/eduardolima17/PowerBI-pbix/blob/main/arquivo-VendasLucrosMargemdeLucroseKPI.pbix
+Arquivo pbix: https://github.com/eduardolima17/PowerBI-pbix/blob/main/arquivo-VendasLucrosMargemdeLucroseKPI.pbix
 
 #
 
