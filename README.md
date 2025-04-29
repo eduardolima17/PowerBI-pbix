@@ -142,7 +142,7 @@ Neste projeto, desenvolvi uma análise completa de campanhas de marketing utiliz
 
 O objetivo foi transformar os dados em insights estratégicos, fornecendo aos tomadores de decisão uma visão detalhada sobre o perfil dos clientes, padrões de compra e a efetividade das campanhas de marketing.
 
-#### Visões Criadas
+#### 🔎 Visões Criadas
 
 O relatório foi estruturado em quatro perspectivas principais:
 
@@ -156,61 +156,77 @@ Visão dos Padrões de Compra no Ponto de Venda (por País): Identificação de 
 
 Para cada visão, foram compreendidas as variáveis envolvidas, criados gráficos interativos, elaboradas medidas (DAX), extraídas métricas e realizados cruzamentos de dados, buscando entregar uma análise robusta e estratégica.
 
-#### Estrutura da Base de Dados
+#### 📂 Estrutura da Base de Dados
 
 A base de dados utilizada é composta por arquivos CSV, contendo as seguintes colunas:
 
-Adolescentes em casa
-Ano de nascimento
-Compras realizadas nas campanhas 1, 2, 3, 4 e 5
-Comprou (Indicador geral de compra)
-Data de cadastro
-Dias desde a última compra
-Escolaridade
-Estado civil
-Filhos em casa
+Adolescentes em casa,
+Ano de nascimento,
+Compras realizadas nas campanhas 1, 2, 3, 4 e 5,
+Comprou (Indicador geral de compra),
+Data de cadastro,
+Dias desde a última compra,
+Escolaridade,
+Estado civil,
+Filhos em casa,
 Gastos com: Alimentos,
 Brinquedos,
 Eletrônicos,
 Móveis,
 Utilidades,
 Vestuário.
-ID do cliente
-Número de compras com desconto
-Número de compras na loja física
-Número de compras pela web
-Número de compras via catálogo
-Número de visitas ao website por mês
-País
-Salário anual
+ID do cliente,
+Número de compras com desconto,
+Número de compras na loja física,
+Número de compras pela web,
+Número de compras via catálogo,
+Número de visitas ao website por mês,
+País,
+Salário anual,
 Total gasto (medida agregada)
 
 Arquivo pbix: https://github.com/eduardolima17/PowerBI-pbix/blob/main/arquivo-Marketing.pbix
 
 #
 
-#### Painel de Visualização Comercial - Perfomance de Vendas
+#### 📊 Análise Comercial - Perfomance de Vendas
 
 <img width='950' height='500' src="https://github.com/eduardolima17/PowerBI-pbix/blob/main/visualizacao-Comercial.png" />
 
-Nesse Dashboard foi trabalhado a análise comercial. Foram construidos diversas visualizações para compreender a performance de vendas de uma empresa fictícia por diferentes ângulos. Foi utilizado dados fictícios para este Dashboard. Foi utlizados interessantes recursos do Power BI como a Narrativa Inteligente, Principais Influenciadores, Gráfico de Faixas e criação de menu para índice do Dashboard.
+Este projeto apresenta a construção de um Relatório de Análise Comercial desenvolvido no Power BI, utilizando uma base de dados fictícia. O objetivo foi criar diversas visualizações para explorar e compreender a performance de vendas de uma empresa simulada sob diferentes perspectivas.
 
-#### Estrutura da base de dados
-Arquivos em excel que contém as seguintes colunas:
-- Categoria
-- Cidade
-- Comissão (porcentual)
-- Custo
-- Data
-- Estado
-- Fabricantes
-- ID Produto
-- ID Vendedor
-- Loja
-- Produto
-- Segmento
-- Valor venda
-- Vedendor
+Para enriquecer a análise e a experiência do usuário, foram aplicados recursos avançados do Power BI, como:
 
-#### Quantidade de dados: 457
-Arquivo: https://github.com/eduardolima17/PowerBI-pbix/blob/main/arquivo-Comercial.pbix
+Narrativa Inteligente: geração automática de insights textuais a partir dos dados.
+
+Principais Influenciadores: identificação dos fatores que mais impactaram os resultados.
+
+Gráfico de Faixas: visualização do desempenho em relação a metas estabelecidas.
+
+Criação de Menu de Navegação: estruturação de um índice para facilitar a interação com o Dashboard.
+
+#### 📂 Estrutura da Base de Dados
+
+Os dados estão organizados em arquivos Excel, contendo as seguintes colunas:
+
+Categoria,
+Cidade,
+Comissão (percentual),
+Custo,
+Data,
+Estado,
+Fabricante,
+ID Produto,
+ID Vendedor,
+Loja,
+Produto,
+Segmento,
+Valor da Venda,
+Vendedor
+
+#### 💡 Observações
+Este projeto foi realizado com foco em práticas de visualização de dados e análise de performance de vendas.
+
+Todos os dados utilizados são fictícios e têm fins exclusivamente educacionais.
+
+Arquivo pbix: https://github.com/eduardolima17/PowerBI-pbix/blob/main/arquivo-Comercial.pbix
