@@ -2,16 +2,40 @@
 
 #
 
-#### Painel de Visualização de Análise de Investimento
+#### 💰 Acompanhamento de Investimentos
 <img width='950' height='500' src="https://github.com/eduardolima17/PowerBI-pbix/blob/main/visualizacao-capa-relatorio-investimento-fiis.png"/>
 
 <img width='950' height='500' src="https://github.com/eduardolima17/PowerBI-pbix/blob/main/visualizacao-painel-relatorio-investimento-fiis.png"/>
+
+Este projeto apresenta um Relatáorio Interativo desenvolvido no Power BI para o acompanhamento da evolução de uma carteira de investimentos. O foco principal foi criar visualizações claras, intuitivas e orientadas para apoiar a tomada de decisões financeiras.
+
+#### ✨ Principais Funcionalidades
+
+KPIs Dinâmicos: Exibição do total investido e do rendimento acumulado da carteira.
+
+Filtros Interativos: Seleção por ano e ticker dos ativos.
+
+Análises Temporais e Comparativas: Avaliação do desempenho ao longo do tempo e comparação entre diferentes ativos.
+
+Gráfico de Rosca: Visualização da distribuição dos investimentos em Fundos Imobiliários (FIIs).
+
+#### 📂 Sobre os Dados
+
+Os dados utilizados são fictícios e foram elaborados com finalidade exclusivamente educacional.
+
+O objetivo é simular uma carteira de investimentos diversificada, permitindo a prática de técnicas de visualização e análise.
+
+#### 💡 Observações
+
+Projeto focado em boas práticas de design de dashboards e análise de dados no contexto de investimentos.
+
+Implementação de recursos interativos para uma experiência de navegação fluida e customizável.
 
 Arquivo pbix: https://github.com/eduardolima17/PowerBI-pbix/blob/main/arquivo_relatorio_investimento_fiis.pbix
 
 #
 
-#### 📊 Relatório de Vendas - Análise Global
+#### 📊 Análise de Vendas - Análise Global
 
 <img width='950' height='500' src="https://github.com/eduardolima17/PowerBI-pbix/blob/main/visualizacao-VendaGlobais.png" />
 
@@ -138,7 +162,7 @@ Arquivo pbix: https://github.com/eduardolima17/PowerBI-pbix/blob/main/arquivo-Ve
 
 <img width='950' height='500' src="https://github.com/eduardolima17/PowerBI-pbix/blob/main/visualizacao-Marketing.png" />
 
-Neste projeto, desenvolvi uma análise completa de campanhas de marketing utilizando o Power BI. O trabalho incluiu a criação de 4 dashboards interativos, com mais de 10 elementos visuais, além de customizações, formatações, tratamento e correção de dados e a aplicação de diferentes recursos da ferramenta.
+Neste projeto, desenvolvi uma análise completa de campanhas de marketing utilizando o Power BI. O trabalho incluiu a criação de 4 relatórios interativos, com mais de 10 elementos visuais, além de customizações, formatações, tratamento e correção de dados e a aplicação de diferentes recursos da ferramenta.
 
 O objetivo foi transformar os dados em insights estratégicos, fornecendo aos tomadores de decisão uma visão detalhada sobre o perfil dos clientes, padrões de compra e a efetividade das campanhas de marketing.
 
