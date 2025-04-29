@@ -99,82 +99,93 @@ Neste projeto, desenvolvi um relatório interativo utilizando Power BI para anal
 Os dados foram organizados em arquivos CSV conforme descrito abaixo:
 
 #### Clientes
-Cidade
-Estado
-Id Cliente
-Mercado
-Nome Cliente
-País
-Região
+Cidade,
+Estado,
+Id Cliente,
+Mercado,
+Nome Cliente,
+País,
+Região,
 Segmento
 
 #### Pedidos
-Data de Envio
-Data do Pedido
-Id Pedido
-Modo de Envio
+Data de Envio,
+Data do Pedido,
+Id Pedido,
+Modo de Envio,
 Prioridade do Pedido
 
 #### Produtos
-Acessórios
-Id Produto
+Acessórios,
+Id Produto,
 Tecnologia
 
 #### Vendas
-Cliente
-Custo de Envio
-Lucro
-Margem de Lucro
-Pedido
-Produto
-Quantidade Vendido
+Cliente,
+Custo de Envio,
+Lucro,
+Margem de Lucro,
+Pedido,
+Produto,
+Quantidade Vendido,
 Valor de Venda
 
 Arquivo pbix: https://github.com/eduardolima17/PowerBI-pbix/blob/main/arquivo-VendasLucrosMargemdeLucroseKPI.pbix
 
 #
 
-#### Painel de Visualização de Análise de Campanhas de Marketing
+#### 📊 Análise de Campanhas de Marketing com Power BI
 
 <img width='950' height='500' src="https://github.com/eduardolima17/PowerBI-pbix/blob/main/visualizacao-Marketing.png" />
 
-Nesse Dashboard foi trabalhado a análise  de  campanhas  de Marketing. Foram 4 Dashboards, mais de 10 elementos visuais, customizações, formatações, correções nos dados e diferentes recursos do Power BI. Os dados representam informações sobre clientes e campanhas de Marketing realizadas por uma empresa.
+Neste projeto, desenvolvi uma análise completa de campanhas de marketing utilizando o Power BI. O trabalho incluiu a criação de 4 dashboards interativos, com mais de 10 elementos visuais, além de customizações, formatações, tratamento e correção de dados e a aplicação de diferentes recursos da ferramenta.
 
-Foram criados diversos relatórios que foram divididos em 4 visões:
-- Visão do Cliente
-- Visão do Comportamento de Compra do Cliente
-- Visão da Performance das Campanhas de Marketing
-- Visão dos Padrões de Compra no Ponto de Venda (País)
+O objetivo foi transformar os dados em insights estratégicos, fornecendo aos tomadores de decisão uma visão detalhada sobre o perfil dos clientes, padrões de compra e a efetividade das campanhas de marketing.
 
-Para cada visão foram compreendidas as variáveis, criação de gráficos, medidas, extração de métricas e cruzado os dados, visando entregar aos tomadores de decisão uma visão bastante completa sobre o perfil dos clientes, os padrões de compra e a efetividade das campanhas de Marketing.
+#### Visões Criadas
 
-#### Estrutura da base de dados
+O relatório foi estruturado em quatro perspectivas principais:
 
-Arquivos em dataset csv que contém as seguintes colunas:
-- Adolescentes em casa
-- Ano nascimento
-- Compra na campanha 1, 2, 3, 4 e campanha 5
-- Comprou
-- Data cadastro
-- Dias desde ultima compra
-- Escolaridade
-- Estado civil
-- Filhos em casa
-- Gasto com Alimentos, Briquedos, Eletronicos, Movéis, Utilidades e Vestuario
-- ID
-- Número de compras com desconto
-- Número de compras na loja
-- Número de compras na web
-- Números de compras via catalogo
-- Números de visitas web site mês
-- País
-- Salário anual
-- Medida total gasto
+Visão do Cliente: Perfil demográfico e características gerais dos clientes.
 
-Para cada visão foram compreendidas as variáveis, criação de gráficos, medidas, extração de métricas e cruzado os dados, visando entregar aos tomadores de decisão uma visão bastante completa sobre o perfil dos clientes, os padrões de compra e a efetividade das campanhas de Marketing.
+Visão do Comportamento de Compra do Cliente: Análise dos hábitos de compra e engajamento dos clientes.
 
-#### Quantidade de dados: 1.999
-Arquivo: https://github.com/eduardolima17/PowerBI-pbix/blob/main/arquivo-Marketing.pbix
+Visão da Performance das Campanhas de Marketing: Avaliação da eficácia das campanhas realizadas.
+
+Visão dos Padrões de Compra no Ponto de Venda (por País): Identificação de padrões de compra e comportamento em diferentes regiões.
+
+Para cada visão, foram compreendidas as variáveis envolvidas, criados gráficos interativos, elaboradas medidas (DAX), extraídas métricas e realizados cruzamentos de dados, buscando entregar uma análise robusta e estratégica.
+
+#### Estrutura da Base de Dados
+
+A base de dados utilizada é composta por arquivos CSV, contendo as seguintes colunas:
+
+Adolescentes em casa
+Ano de nascimento
+Compras realizadas nas campanhas 1, 2, 3, 4 e 5
+Comprou (Indicador geral de compra)
+Data de cadastro
+Dias desde a última compra
+Escolaridade
+Estado civil
+Filhos em casa
+Gastos com: Alimentos,
+Brinquedos,
+Eletrônicos,
+Móveis,
+Utilidades,
+Vestuário.
+ID do cliente
+Número de compras com desconto
+Número de compras na loja física
+Número de compras pela web
+Número de compras via catálogo
+Número de visitas ao website por mês
+País
+Salário anual
+Total gasto (medida agregada)
+
+Arquivo pbix: https://github.com/eduardolima17/PowerBI-pbix/blob/main/arquivo-Marketing.pbix
 
 #
 
