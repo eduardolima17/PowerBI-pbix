@@ -7,7 +7,7 @@
 
 <img width='950' height='500' src="https://github.com/eduardolima17/PowerBI-pbix/blob/main/visualizacao-painel-relatorio-investimento-fiis.png"/>
 
-Este projeto apresenta um Relatáorio Interativo desenvolvido no Power BI para o acompanhamento da evolução de uma carteira de investimentos. O foco principal foi criar visualizações claras, intuitivas e orientadas para apoiar a tomada de decisões financeiras.
+Este projeto apresenta um Relatório Interativo desenvolvido no Power BI para o acompanhamento da evolução de uma carteira de investimentos. O foco principal foi criar visualizações claras, intuitivas e orientadas para apoiar a tomada de decisões financeiras.
 
 #### ✨ Principais Funcionalidades
 
